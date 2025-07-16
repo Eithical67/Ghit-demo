@@ -1,3 +1,3 @@
 # Ghit-demo
-This is my first git 
-Author krish kumar
+This is my first git.
+"Author-krish kumar"
